@@ -6,4 +6,5 @@ It is better to load extremely large datasets. And we analyze the top 10 cities 
 In conclusion, parallel computing allows more work to be done per unit of time since multiple processors can work on different parts of a problem at the same time, which can maximise resource usage and reduce running time. It is useful and efficient to process big data sets or do complete computations and analyses
 
 How to start it: mpiexec -np 8 python3 main.py
+
 cores: 8
